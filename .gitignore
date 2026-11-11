@@ -1,0 +1,10 @@
+*.slxc
+*.autosave
+*.asv
+slprj/
+*_ert_rtw/
+*.elf
+*.hex
+*.eep
+*.o
+*.dep
